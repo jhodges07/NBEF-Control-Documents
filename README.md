@@ -37,7 +37,7 @@ The Control Steward may not:
 
 Canonical NBEF control documents SHALL be written in **Markdown (`.md`)**.
 
-Numbered CONTROL documents exist only when the Human Engineer authorizes them through a CWC. **CONTROL 00 has not been created.**
+Numbered CONTROL documents exist only when the Human Engineer authorizes them through a CWC. CONTROL 00 is established at `controls/00_Control.md`.
 
 ## Version-control intention
 
@@ -76,6 +76,6 @@ Historical drafts, essays, conversations, podcast material, advocacy writing, an
 
 ## Repository layout
 
-- `controls/` — future location of Human Engineer–authorized NBEF CONTROL documents
+- `controls/` — Human Engineer–authorized NBEF CONTROL documents, including CONTROL 00 (`controls/00_Control.md`)
 - `Audit/` — future location of repository audit records for NBEF control-document work
 - `.cursor/rules/` — repository-local Cursor rule binding this workspace to **NBEF — Control Steward**

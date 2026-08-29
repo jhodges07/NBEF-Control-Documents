@@ -2,9 +2,9 @@
 
 This directory is reserved for **Human Engineer–authorized NBEF CONTROL documents**.
 
-No numbered NBEF CONTROL document is present.
+Canonical CONTROLs presently in this directory:
 
-**CONTROL 00 has not been created.**
+- `00_Control.md` — NBEF Root Control (CONTROL 00), authorized by NBEF-CWC #5
 
 CONTROL documents SHALL be Markdown (`.md`) and SHALL be created only by CWC when the Human Engineer authorizes a specific CONTROL.
 
