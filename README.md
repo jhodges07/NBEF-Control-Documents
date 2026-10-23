@@ -79,3 +79,13 @@ Historical drafts, essays, conversations, podcast material, advocacy writing, an
 - `controls/` — Human Engineer–authorized NBEF CONTROL documents, including CONTROL 00 (`controls/00_Control.md`)
 - `Audit/` — future location of repository audit records for NBEF control-document work
 - `.cursor/rules/` — repository-local Cursor rule binding this workspace to **NBEF — Control Steward**
+
+## Proposed Lean Civics interface — informative only
+
+A [Lean Civics–NBEF Interface Specification](https://github.com/jhodges07/Lean-Civics-Control-Documents/blob/main/references/Lean_Civics_NBEF_Interface_Specification.md) is maintained as a proposed document in the Lean Civics repository.
+
+It is **not adopted NBEF authority**. This link does not adopt Lean Civics, amend NBEF CONTROL 00, recognize a Node, designate a new CONTROL, or authorize education operations or data exchange. Any adoption requires the applicable explicit NBEF governance process.
+
+The interface preserves independent concept ownership, explicit unit relationships, student privacy, and unresolved-doctrine boundaries.
+
+Reference added October 23, 2026, on the Human Engineer’s instruction "make it so" following review of the proposed cross-repository interface.
